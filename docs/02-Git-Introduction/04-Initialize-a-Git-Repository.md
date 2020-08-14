@@ -38,6 +38,9 @@ In this section, we will take a look at initializing a git repository
   ```
   $ git add story1.txt
   ```
+  
+## git commit
+
 - To commit the changes
   ```
   $ git commit -m "Added first story"
