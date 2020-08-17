@@ -5,7 +5,7 @@
 
 
 - We have seen that how we can interact with the Git. Now let's take a look , how Git actually works. 
-- Git is nothing more then a key-value store. When we add a file to the commit, the contents of the file are hashed using the shell one algorithm. The hashed is then used as a key name for the directory and stores the file using that key name.
+- Git is nothing more than a key-value store. When we add a file to the commit, the contents of the file are hashed using the shell one algorithm. The hashed is then used as a key name for the directory and stores the file using that key name.
 
 - Git has `porcelain` command and `plumbing` command.
 
