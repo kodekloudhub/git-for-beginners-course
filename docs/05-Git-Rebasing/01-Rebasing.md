@@ -4,6 +4,8 @@
 ![r2](../../images/r2.PNG)
 
 - In this section, we will take a look at git rebasing.
+
+### Git merge
 - We can merge the master branch into our own branch by `git merge` command. 
 - This creates a new merge commit, to merge these changes into the our own branch. Another way to achieving this, by rebasing branches.
 ```
