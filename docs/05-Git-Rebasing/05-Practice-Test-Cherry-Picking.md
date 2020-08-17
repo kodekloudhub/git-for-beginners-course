@@ -25,6 +25,7 @@ Solutions to practice test - Cherry Picking
 - Run the following command to switch into the given branch and perform cherry-pick command.
   <details>
   	<summary>Solution</summary>
+  	
   ```
   $ git checkout story/hare-and-tortoise
   $ git cherry-pick < write commit hash value identified in the previous step >
