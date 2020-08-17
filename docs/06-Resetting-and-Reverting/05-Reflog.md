@@ -38,4 +38,4 @@ $ git log
   
 $ git reflog  
 ```
-![t1](../images/t1.PNG)
+![t1](../../images/t1.PNG)
