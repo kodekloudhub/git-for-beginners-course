@@ -55,10 +55,10 @@ Solutions to practice test - Git Rebasing
   <details>
     <summary>Solution</summary>
 
-```
-$ git log
-```
-</details>
+  ```
+  $ git log
+  ```
+  </details>
 
 - Run the following command to squash all the commits into a single commit. It opens the editor. Leave the first line and change the second and third lines to use `squash` instead of `pick` then save the file and exit with `:wq`. It will open again a file in the editor. Add the commit message "Add hare-and-tortoise story" with press `i` then save the file and exit with `:wq`.
   <details>
