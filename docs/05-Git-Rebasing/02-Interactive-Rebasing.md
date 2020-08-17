@@ -21,4 +21,4 @@ $ git rebase -i HEAD~4
 
 ![x3](../../images/x3.PNG)
 
-- After this, it will combind the commits. There are so many other options when you are interactively rebasing. It's very powerful tool to changes to your branch and commits.
+- After this, it will combined the commits. There are so many other options when you are interactively rebasing. It's very powerful tool to changes to your branch and commits.
