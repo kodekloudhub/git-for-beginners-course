@@ -3,49 +3,89 @@
 
 Solutions to practice test - Install git
 - Run the command cat /etc/*release* and identify the name
+  
+  <details>
+  
   ```
   $ cat /etc/*release*
+  ```
+  
+  </details>
   
 - Run sudo apt update and then sudo apt install git -y. Refer to the GIT installation documentation here: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+  
+  <details>
+  
   ```
   $ sudo apt update 
   $ sudo apt install git -y
   ```
+  
+  </details>
+  
 - Run git --version to check version
+  
+  <details>
+  
   ```
   $ git --version
   ```
+  
+  </details>
+  
 - Run git help command and look at the description of each command
+  
+  <details>
+  
   ```
   $ git help|more 
   $ git show
   ```
+  
+  </details>
+  
 - Run git help command and look at the description of each command
+  
+  <details>
+  
   ```
   $ git help|more
   $ git branch
   ```
+  
+  </details>
+  
 - Run git help command and look at the description of each command
+  
+  <details>
+  
   ```
   $ git help|more
   $ git fetch
   ```
+  
+  </details>
+  
 - Run git help command and look at the description of each command
+  
+  <details>
+  
   ```
   $ git help|more
   $ git init
   ```
+  
+  </details>
+  
 - Run git help init command and identify the option used to create a bare repository
+  
+  <details>
+  
   ```
   $ apt-get install git-man
   $ git help init
   $ git init --bare
   ```
-- Once a git repository has been initialized, which stage contains the active changes in your local git repository?
-  ```
-  Working Area
-  ```
-- Which stage contains new changes that will soon be committed to local git repo ?
-  ```
-  Staging Area
-  ```
+  
+  </details>
+  
