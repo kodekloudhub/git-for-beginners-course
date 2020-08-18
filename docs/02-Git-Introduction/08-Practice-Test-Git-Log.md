@@ -7,7 +7,7 @@ Solutions to practice test - git log
   
   <summary>solution</summary>
   
-  <detail>
+  <details>
   
   ```
   $ cd /home/sarah/story-blog
