@@ -1,13 +1,11 @@
 # Practice Test - Install Git
   - Take me to [Practice Test](https://kodekloud.com/courses/1085975/lectures/23241013)
 
-<summary> Solutions to practice test - Install git </summary>
+Solutions to practice test - Install git
 
 - Run the command cat /etc/*release* and identify the name
     
   <details>
-
-  <summary> Solutions to practice test - Install git </summary>
   
   ```
   $ cat /etc/*release*
