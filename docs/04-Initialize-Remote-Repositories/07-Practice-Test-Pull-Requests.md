@@ -110,5 +110,3 @@ Solutions to practice test - pull requests
   - PR status should be shown as Merged
 
   </details>
-
--
