@@ -17,4 +17,28 @@ These are notes from the [Git for Beginners Course](https://kodekloud.com/course
   - [07-Git-Log](docs/02-Git-Introduction/07-Git-Log.md)
   - [08-Practice-Test-Git-Log](docs/02-Git-Introduction/08-Practice-Test-Git-Log.md)
   
+- [03-Git-Branches](docs/03-Git-Branches)
+  - [01-Git-Branches](docs/03-Git-Branches/01-Git-Branches.md)
+  - [02-Practice-Test-Branches](docs/03-Git-Branches/02-Practice-Test-Branches.md)
+  - [03-Git-Merging-Branches](docs/03-Git-Branches/03-Git-Merging-Branches.md)
+  - [04-Practice-Test-Merging-Branches](docs/03-Git-Branches/04-Practice-Test-Merging-Branches.md)
+
+- [04-Initialize-Remote-Repositories](docs/04-Initialize-Remote-Repositories)
+  - [01-Initialize-Remote-Repositories](docs/04-Initialize-Remote-Repositories/01-Initialize-Remote-Repositories.md)
+  - [02-Pushing-to-remote-repositories](docs/04-Initialize-Remote-Repositories/02-Pushing-to-remote-repositories.md)
+  - [03-Practice-Test-Remote-Repositories](docs/04-Initialize-Remote-Repositories/03-Practice-Test-Remote-Repositories.md)
+  - [04-Cloning-Remote-Repositories](docs/04-Initialize-Remote-Repositories/04-Cloning-Remote-Repositories.md)
+  - [05-Practice-Test-Cloning-Remote-Repositories](docs/04-Initialize-Remote-Repositories/05-Practice-Test-Cloning-Remote-Repositories.md)
+  - [06-Pull-Requests](docs/04-Initialize-Remote-Repositories/06-Pull-Requests.md)
+  - [07-Practice-Test-Pull-Requests](docs/04-Initialize-Remote-Repositories/07-Practice-Test-Pull-Requests.md)
+  - [08-Fetching-and-Pulling](docs/04-Initialize-Remote-Repositories/08-Fetching-and-Pulling.md)
+  - [09-Practice-Test-Fetching-and-Pulling](docs/04-Initialize-Remote-Repositories/09-Practice-Test-Fetching-and-Pulling.md)
+  - [10-Merge-Conflicts](docs/04-Initialize-Remote-Repositories/10-Merge-Conflicts.md)
+  - [11-Practice-Test-Merge-Conflicts](docs/04-Initialize-Remote-Repositories/11-Practice-Test-Merge-Conflicts.md)
+  - [12-Fork](docs/04-Initialize-Remote-Repositories/12-Fork.md)
+  
+
+  
+  
+
 
