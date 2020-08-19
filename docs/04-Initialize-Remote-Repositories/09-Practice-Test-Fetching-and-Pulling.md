@@ -14,4 +14,43 @@ Solutions to practice test - fetching and pulling
    
   </details>
    
-- 
+- To view all the branches- both local and remote - run the git branch -a command.
+
+  <details>
+   
+  ```
+  $ git branch -a
+  ```
+   
+  </details>
+
+- Run git merge origin/master
+
+  <details>
+   
+  ```
+  $ git merge origin/master
+  ```
+   
+  </details>
+  
+- Run git pull origin master
+
+  <details>
+   
+  ```
+  $ git pull origin master
+  ```
+   
+  </details>
+
+- Run the ls command while in the master branch
+
+  <details>
+   
+  ```
+  $ ls
+  ```
+   
+  </details>
+
