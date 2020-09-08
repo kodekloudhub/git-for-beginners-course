@@ -9,7 +9,7 @@ $ git log
   
 To easily show commit details as one line
 ```
-$ git log --online
+$ git log --oneline
 ```
 
  ![gitlog1](../../images/gitlog1.PNG)
