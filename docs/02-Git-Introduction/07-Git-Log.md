@@ -1,5 +1,5 @@
 # Git Log
-  - Take me to [Video Tutorial](https://kodekloud.com/courses/1085975/lectures/23241022)
+  - Take me to [Video Tutorial](https://kodekloud.com/topic/git-log/)
   
 To know about other commits information such as commit hash, the author name and the date
 ```
@@ -9,7 +9,7 @@ $ git log
   
 To easily show commit details as one line
 ```
-$ git log --online
+$ git log --oneline
 ```
 
  ![gitlog1](../../images/gitlog1.PNG)

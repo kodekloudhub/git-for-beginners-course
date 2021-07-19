@@ -1,5 +1,5 @@
 # Practice Test - Branches
-  - Take me to [Practice Test](https://kodekloud.com/courses/1085975/lectures/23241091)
+  - Take me to [Practice Test](https://kodekloud.com/topic/lab-branches-checkout-push-branch/)
   
 Solutions to practice test - Branches
 - Refer the previous lecture, Branch is nothing but a pointer to a specific commit in GIT

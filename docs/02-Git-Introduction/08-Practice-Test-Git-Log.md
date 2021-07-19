@@ -1,5 +1,5 @@
 # Practice Test - Git Log
-  - Take me to [Practice Test](https://kodekloud.com/courses/1085975/lectures/23241040)
+  - Take me to [Practice Test](https://kodekloud.com/topic/lab-git-log/)
   
 Solutions to practice test - git log
 

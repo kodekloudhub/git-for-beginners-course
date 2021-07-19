@@ -1,5 +1,5 @@
  # Initialize Remote Repositories
-   - Take me to [Video Tutorial](https://kodekloud.com/courses/1085975/lectures/23241042)
+   - Take me to [Video Tutorial](https://kodekloud.com/topic/initialize-remote-repositories/)
    
  In this section, we will take a look at initializing remote repositories
  

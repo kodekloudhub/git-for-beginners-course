@@ -1,5 +1,5 @@
 # Practice Test - Cherry Picking
-  - Take me to [Practice Test](https://kodekloud.com/courses/1085975/lectures/23244823)
+  - Take me to [Practice Test](https://kodekloud.com/topic/lab-cherry-picking/)
 
 Solutions to practice test - Cherry Picking
 - Move into the directory with `cd` command and check the content of the given file name with `cat` command.

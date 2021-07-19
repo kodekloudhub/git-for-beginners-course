@@ -1,5 +1,5 @@
 # Install Git
-  - Take me to [Video Tutorial](https://kodekloud.com/courses/1085975/lectures/23240735)
+  - Take me to [Video Tutorial](https://kodekloud.com/topic/install-git/)
   
 In this section, we will take a look at Installing Git
 

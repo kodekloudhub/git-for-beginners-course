@@ -1,5 +1,5 @@
 # Git Stashing
-  - Take me to [Video Tutorial](https://kodekloud.com/courses/1085975/lectures/23244916)
+  - Take me to [Video Tutorial](https://kodekloud.com/topic/stashing/)
 
 In this section, we will take a took at `git stash` command.
 

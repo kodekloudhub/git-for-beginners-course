@@ -1,5 +1,5 @@
 # Initialize a Git Repository
-  - Take me to [Video Tutorial](https://kodekloud.com/courses/1085975/lectures/23241017)
+  - Take me to [Video Tutorial](https://kodekloud.com/topic/intialize-a-git-repository/)
 
 In this section, we will take a look at initializing a git repository
 

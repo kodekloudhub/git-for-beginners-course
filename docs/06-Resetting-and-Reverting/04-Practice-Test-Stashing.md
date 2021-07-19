@@ -1,5 +1,5 @@
 # Practice Test - Stashing
-  - Take me to [Practice Test](https://kodekloud.com/courses/1085975/lectures/23244951)
+  - Take me to [Practice Test](https://kodekloud.com/topic/lab-stashing/)
 
 Solutions to practice test - Stashing
 - Run the `cd` command to move into the **story-blog** directory and their check the content of the lion-and-mouse.txt file. Something is wrong written in the file.

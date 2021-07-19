@@ -1,5 +1,5 @@
 # Practice Test - Rebasing
-  - Take me to [Practice Test](https://kodekloud.com/courses/1085975/lectures/23428013)
+  - Take me to [Practice Test](https://kodekloud.com/topic/lab-rebasing/)
 
 Solutions to practice test - Git Rebasing
 - Click on the **Gitea Portal UI** button and enter the credentials given in the screen. Open the **sarah** story-blog repository. Click on the **Commits**.

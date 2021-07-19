@@ -1,5 +1,5 @@
 # Merge Conflicts
-  - Take me to [Video Tutorial](https://kodekloud.com/courses/git-for-beginners/lectures/23429479)
+  - Take me to [Video Tutorial](https://kodekloud.com/topic/git-merge-conflicts/)
   
 In this section, we will take a look at merge conflicts
 

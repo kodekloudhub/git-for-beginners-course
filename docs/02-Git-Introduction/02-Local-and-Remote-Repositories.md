@@ -1,5 +1,5 @@
 # Local and Remote Repositories
-  - Take me to [Video Tutorial](https://kodekloud.com/courses/1085975/lectures/23529749)
+  - Take me to [Video Tutorial](https://kodekloud.com/topic/local-and-remote-repositories/)
   
 In this section, we will take a look at local and remote repositories
 
