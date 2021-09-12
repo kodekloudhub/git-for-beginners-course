@@ -15,7 +15,7 @@ In this section, we will take a look at git branches
   
 - To create a new branch
   ```
-  $ git checkout sarah
+  $ git branch sarah
   ```
   
 - To create a new branch and switch to it
