@@ -1,6 +1,6 @@
 # Git For Beginners
 
-These are notes from the [Git for Beginners Course](https://kodekloud.com/courses/enrolled/1085975) hosted on KodeKloud.
+These are notes from the [Git for Beginners Course](https://kodekloud.com/courses/git-for-beginners/) hosted on KodeKloud.
 
 # Sections
 

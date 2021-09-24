@@ -1,5 +1,5 @@
 # Practice Test - Fetching and Pulling
-  - Take me to [Practice Test](https://kodekloud.com/courses/git-for-beginners/lectures/23241130)
+  - Take me to [Practice Test](https://kodekloud.com/topic/lab-fetching-and-pulling/)
    
 Solutions to practice test - fetching and pulling
 

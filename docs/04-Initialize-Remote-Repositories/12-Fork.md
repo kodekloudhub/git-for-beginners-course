@@ -1,5 +1,5 @@
   # Fork
-   - Take me to [Video Tutorial](https://kodekloud.com/courses/git-for-beginners/lectures/23529954)
+   - Take me to [Video Tutorial](https://kodekloud.com/topic/fork/)
     
  #### How do you create a pull request if you are not part of a git project?
  - One way to contribute such projects is to **`fork`** the main project.

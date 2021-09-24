@@ -1,5 +1,5 @@
 # Pull Requests
-  - Take me to [Video Tutorial](https://kodekloud.com/courses/git-for-beginners/lectures/23429376)
+  - Take me to [Video Tutorial](https://kodekloud.com/topic/pull-requests/)
    
 In this section, we will take a look at Pull requests
 

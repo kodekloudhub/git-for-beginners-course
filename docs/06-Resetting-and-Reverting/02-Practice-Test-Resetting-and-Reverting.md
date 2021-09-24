@@ -1,5 +1,5 @@
 # Practice Test - Resetting and Reverting
-  - Take me to [Practice Test](https://kodekloud.com/courses/1085975/lectures/23244914)
+  - Take me to [Practice Test](https://kodekloud.com/topic/lab-resetting-and-reverting/)
 
 Solutions to practice test - Resetting and Reverting
 - Run the `cd` command to move into the story-blog directory.

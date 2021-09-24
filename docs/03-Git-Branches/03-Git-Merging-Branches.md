@@ -1,5 +1,5 @@
 # Git Merging Branches
-  - Take me to [Video Tutorial](https://kodekloud.com/courses/1085975/lectures/23241099)
+  - Take me to [Video Tutorial](https://kodekloud.com/topic/git-merging-branches/)
   
 In this section, we will take a look at git merging braches
 

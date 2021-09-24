@@ -1,5 +1,5 @@
   # Practice Test - Merging Branches
-    - Take me to [Practice Test](https://kodekloud.com/courses/1085975/lectures/23241113)
+  - Take me to [Practice Test](https://kodekloud.com/topic/lab-merging-branches/)
     
  Solutions to practice test - merging branches
  - Run cd /home/sarah/story-blog; git checkout master and then list the files ls

@@ -1,5 +1,5 @@
 # Git Cherry Picking
-  - Take me to [Video Tutorial](https://kodekloud.com/courses/1085975/lectures/23428019)
+  - Take me to [Video Tutorial](https://kodekloud.com/topic/cherry-picking/)
 
   ![r3](../../images/r3.PNG)
 

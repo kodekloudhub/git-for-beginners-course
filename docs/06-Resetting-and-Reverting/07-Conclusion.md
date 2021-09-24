@@ -1,5 +1,5 @@
 # Conclusion
-  - Take me to [Video Tutorial](https://kodekloud.com/courses/1085975/lectures/23245007)
+  - Take me to [Video Tutorial](https://kodekloud.com/topic/conclusion/)
 
 - In this session, we will take a quick recap of all the concepts that we learned. 
 

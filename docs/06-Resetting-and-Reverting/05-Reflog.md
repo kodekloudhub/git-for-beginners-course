@@ -1,5 +1,5 @@
 # Git Reflog
-  - Take me to [Video Tutorial](https://kodekloud.com/courses/1085975/lectures/23530196)
+  - Take me to [Video Tutorial](https://kodekloud.com/topic/reflog/)
 
 In this section, we will take a took at `git reflog` command.
 

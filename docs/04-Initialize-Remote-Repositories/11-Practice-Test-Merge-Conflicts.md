@@ -1,5 +1,5 @@
  # Practice Test - Merge Conflicts
-   - Take me to [Practice Test](https://kodekloud.com/courses/git-for-beginners/lectures/23429496)
+   - Take me to [Practice Test](https://kodekloud.com/topic/lab-merge-conflicts/)
    
  Solutions to practice test - merge conflicts
  

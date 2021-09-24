@@ -1,5 +1,5 @@
 # Pull requests
-  - Take me to [Practice Test](https://kodekloud.com/courses/git-for-beginners/lectures/23429436)
+  - Take me to [Practice Test](https://kodekloud.com/topic/labs-pull-requests/)
   
 Solutions to practice test - pull requests
 

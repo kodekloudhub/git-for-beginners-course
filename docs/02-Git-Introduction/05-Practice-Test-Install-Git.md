@@ -1,5 +1,5 @@
 # Practice Test - Install Git
-  - Take me to [Practice Test](https://kodekloud.com/courses/1085975/lectures/23241013)
+  - Take me to [Practice Test](https://kodekloud.com/topic/lab-install-git/)
 
 Solutions to practice test - Install git
 

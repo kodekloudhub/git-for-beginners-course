@@ -1,5 +1,5 @@
  # Cloning Remote Repositories
-   - Take me to [Video Tutorial](https://kodekloud.com/courses/git-for-beginners/lectures/23241049)
+   - Take me to [Video Tutorial](https://kodekloud.com/topic/cloning-remote-repositories/)
  
  In this section, we will take a look at cloning remote repositories
  

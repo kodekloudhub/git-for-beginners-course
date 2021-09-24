@@ -1,5 +1,5 @@
 # Git Interactive Rebasing
-  - Take me to [Video Tutorial](https://kodekloud.com/courses/1085975/lectures/23244813)
+  - Take me to [Video Tutorial](https://kodekloud.com/topic/interactive-rebasing/)
 
 ![x1](../../images/x1.PNG)
 

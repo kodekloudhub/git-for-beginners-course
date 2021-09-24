@@ -1,5 +1,5 @@
 # Fetching and Pulling
-  - Take me to [Video Tutorial](https://kodekloud.com/courses/git-for-beginners/lectures/23241126)
+  - Take me to [Video Tutorial](https://kodekloud.com/topic/fetching-and-pulling/)
   
 In this section, we will take a look at fetching and pulling
 

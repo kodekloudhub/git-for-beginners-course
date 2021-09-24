@@ -1,5 +1,5 @@
  # Practice Test - Cloning Remote Repositories
-   - Take me to [Video Tutorial](https://kodekloud.com/courses/git-for-beginners/lectures/23427776)
+   - Take me to [Video Tutorial](https://kodekloud.com/topic/lab-cloning-remote-repositories/)
 
 Solutions to practice test - cloning remote repositories
 - Run cd /home/max; git clone http://git.example.com/sarah/story-blog.git
